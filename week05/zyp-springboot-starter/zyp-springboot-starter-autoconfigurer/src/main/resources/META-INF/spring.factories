@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+home.zyp.starter.zypspringbootstarterautoconfigurer.HelloAutoConfiguration
